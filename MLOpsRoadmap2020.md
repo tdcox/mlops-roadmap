@@ -1,6 +1,6 @@
-#MLOps SIG Roadmap Draft 2020
+# MLOps SIG Roadmap Draft 2020
 
-##NOT YET PUBLISHED
+## NOT YET PUBLISHED
 
 This document sets out the current state of MLOps and provides a five year roadmap for future customer needs which is intended to support pre-competitive collaboration across the industry with a view to improving the overall state of MLOps as a capability for all.
 
