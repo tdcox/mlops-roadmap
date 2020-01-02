@@ -1,4 +1,5 @@
 #MLOps SIG Roadmap Draft 2020
+
 ##NOT YET PUBLISHED
 
 This document sets out the current state of MLOps and provides a five year roadmap for future customer needs which is intended to support pre-competitive collaboration across the industry with a view to improving the overall state of MLOps as a capability for all.
@@ -11,7 +12,9 @@ Current active contributors to the MLOps SIG Roadmap:
 
 Terry Cox, Bootstrap Ltd <terry@bootstrap.je>
 
-<list of contributors>
+> Amend list of contributors here
+
+
 
 # Introduction
 
@@ -42,6 +45,8 @@ Compounding this challenge, Machine Learning solutions tend to be decision-makin
 As these decision-making solutions increasingly displace human decision-makers in commerce and government, we encounter a new class of governance problems, collectively known as ‘Responsible AI’. These introduce a range of challenges around complex issues such as ethics, fairness and bias in ML models and often fall under government regulation requiring interpretability and explainability of models, often to a standard higher than that applied to human staff.
 
 As a result, it will be necessary for MLOps to develop in a manner that facilitates complex and sensitive governance processes that are of a standard appropriate to what is expected to become a highly regulated area.
+
+
 
 ## Drivers
 
@@ -83,6 +88,8 @@ As a result, it will be necessary for MLOps to develop in a manner that facilita
 
 * Managing risk by aligning ML deliveries to appropriate governance processes
 
+
+
 ### Drivers unique to Machine Learning solutions that represent MLOps requirements
 
 * Mitigating the risks associated with producing decision-making products
@@ -117,6 +124,8 @@ As a result, it will be necessary for MLOps to develop in a manner that facilita
 
 * Facilitating compliance verification against regional AI legislation
 
+
+
 ## Vision
 
 > NOTES: Narrative vision for the future of MLOps.
@@ -135,15 +144,21 @@ MLOps implementations should follow a ‘convention over configuration’ patter
 
 The use of MLOps should teach best known methods of applying MLOps. It should be recognised that many customers will be experts in the field of Data Science but may have had relatively little exposure to DevOps or other SDLC principles. To minimise the learning curve, MLOps defaults should always align to best practice in production environments rather than ‘quick-and-dirty’ as might be the case for expert users wishing to trial an instance of the tooling in a test bench environment.
 
+
+
 # Scope
 
 The focus of this roadmap is upon aspects relating to extending DevOps principles to the area of Machine Learning and does not discuss basic features of DevOps or CI/CD approaches that are common across both domains. The intention is for MLOps to decorate DevOps rather than differentiate.
+
+
 
 # Summary and Updates
 
 > NOTES: Executive summary of the roadmap and what’s new in revised versions.
 
 This is the first edition of the MLOps Roadmap and sets out the initial challenges for the approach with suggested potential solutions.
+
+
 
 # Challenges
 
@@ -258,6 +273,8 @@ Explainability and compliance</td>
   </tr>
 </table>
 
+
+
 # Technology Requirements
 
 > NOTES: Identify specific technology requirements to enable progress against the challenges identified above.
@@ -325,6 +342,8 @@ Explainability and compliance</td>
   </tr>
 </table>
 
+
+
 # Potential Solutions
 
 > NOTES: Identify potential solutions that could address the challenges above and meet technical requirements.
@@ -337,23 +356,23 @@ Show a timeline of potential solutions to set expectations.
 
 <table>
   <tr>
-    <td></td>
+    <td bgcolor="#fff598"> </td>
     <td> To Be Determined</td>
   </tr>
   <tr>
-    <td> </td>
+    <td bgcolor="#000000"> </td>
     <td> Research Required</td>
   </tr>
   <tr>
-    <td></td>
+    <td bgcolor="#2562ff"> </td>
     <td> Development Underway</td>
   </tr>
   <tr>
-    <td></td>
+    <td bgcolor="#999999"> </td>
     <td> Continuous Improvement</td>
   </tr>
   <tr>
-    <td></td>
+    <td bgcolor="#ffffff"> </td>
     <td> Qualification / Pre-production</td>
   </tr>
 </table>
@@ -490,6 +509,8 @@ Show a timeline of potential solutions to set expectations.
   </tr>
 </table>
 
+
+
 # Cross-Cutting Concerns
 
 > NOTES: Identify aspects of MLOps that overlap with issues covered by other SIGs and ensure alignment of work on cross-cutting concerns.
@@ -504,11 +525,17 @@ The following cross-cutting concerns are identified:
 
 * Security
 
+
+
 # Conclusions and Recommendations
 
 > NOTES: Conclusions and recommendations for the current year.
 
+
+
 # References
 
 > NOTES: List of references.
+
+
 
